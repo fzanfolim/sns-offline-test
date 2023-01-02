@@ -1,0 +1,37 @@
+{
+    "canonicalSearch": [
+        "sede"
+    ],
+    "location": {
+        "__type": "GeoPoint",
+        "latitude": -23.6200797,
+        "longitude": -46.8838167
+    },
+    "addressLine1": "R SANTA MONICA",
+    "addressLine2": "BLOCO C",
+    "number": "281",
+    "suburb": "Parque Industrial San José",
+    "city": "Cotia",
+    "addressState": "SP",
+    "country": "BRA",
+    "zip": "06715865",
+    "retailer": {
+        "__type": "Pointer",
+        "className": "Retailer",
+        "objectId": "RWN2a2z3si"
+    },
+    "name": "Sede",
+    "createdAt": "2021-10-08T12:11:26.777Z",
+    "updatedAt": "2021-11-19T15:08:05.275Z",
+    "notify": [],
+    "ACL": {
+        "role:RWN2a2z3si_admin": {
+            "read": true,
+            "write": true
+        },
+        "role:RWN2a2z3si_everyone": {
+            "read": true
+        }
+    },
+    "objectId": "KwuKG6cOEO"
+}
